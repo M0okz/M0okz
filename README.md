@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+💰 Investor
+
+🎨 Sys Admin at Work / HomeLab Dev
+
+❤️ MotorBike
 <!--
 **M0okz/M0okz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
